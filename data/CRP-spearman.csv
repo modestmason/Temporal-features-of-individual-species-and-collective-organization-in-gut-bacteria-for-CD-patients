@@ -1,0 +1,29 @@
+Group,Subject,Species,rho,p
+R,12,s__Lacrimispora saccharolytica,0.809039835,0.0425
+R,12,s__Roseburia hominis,0.801783726,0.0434
+R,12,s__Bacteroides uniformis,-0.801783726,0.0445
+R,12,s__Lachnospiraceae bacterium KM106-2,0.801783726,0.0458
+R,12,s__Clostridioides difficile,0.801783726,0.0464
+R,12,s__Bacteroides sp. A1C1,-0.801783726,0.0466
+R,12,s__Anaerobutyricum hallii,0.770154046,0.0479
+R,12,s__Lachnospira eligens,0.809039835,0.0481
+R,12,s__Blautia sp. SC05B48,0.801783726,0.0495
+R,14,s__Oscillibacter sp. PEA192,0.880406274,0.047
+R,14,s__Dysosmobacter welbionis,0.880406274,0.0503
+mA,4,s__Sutterella megalosphaeroides,-0.820090861,0.0088
+R2A,1,s__Megamonas hypermegale,-0.873980439,0.0032
+R2A,1,s__Megamonas funiformis,-0.864530967,0.0051
+R2A,1,s__[Ruminococcus] gnavus,0.75,0.0274
+R2A,7,s__Roseburia hominis,-0.904761905,0.0036
+R2A,7,s__Roseburia intestinalis,-0.874267171,0.007
+R2A,7,s__Anaerobutyricum hallii,-0.880952381,0.0087
+R2A,7,s__Blautia producta,-0.857142857,0.0093
+R2A,7,s__Clostridioides difficile,-0.857142857,0.0094
+R2A,7,s__Blautia sp. SC05B48,-0.857142857,0.0104
+R2A,15,s__[Clostridium] innocuum,-0.970077272,0.0008
+R2A,15,s__Massilistercora timonensis,-0.904761905,0.0035
+R2A,15,s__Anaerobutyricum hallii,-0.904761905,0.0045
+R2A,15,s__Lachnoclostridium sp. YL32,-0.77845707,0.0271
+R2A,16,s__Bifidobacterium catenulatum,-0.931468031,0.0019
+R2A,16,s__Parabacteroides sp. CT06,-0.752035668,0.0417
+R2A,16,s__Bifidobacterium pseudocatenulatum,-0.74007049,0.0454
